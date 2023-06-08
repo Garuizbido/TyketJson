@@ -1,0 +1,17 @@
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/bin/Debug/net7.0/TyketJson
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/bin/Debug/net7.0/TyketJson.deps.json
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/bin/Debug/net7.0/TyketJson.runtimeconfig.json
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/bin/Debug/net7.0/TyketJson.dll
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/bin/Debug/net7.0/TyketJson.pdb
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/obj/Debug/net7.0/TyketJson.csproj.AssemblyReference.cache
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/obj/Debug/net7.0/TyketJson.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/obj/Debug/net7.0/TyketJson.AssemblyInfoInputs.cache
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/obj/Debug/net7.0/TyketJson.AssemblyInfo.cs
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/obj/Debug/net7.0/TyketJson.csproj.CoreCompileInputs.cache
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/obj/Debug/net7.0/TyketJson.csproj.CopyComplete
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/obj/Debug/net7.0/TyketJson.dll
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/obj/Debug/net7.0/refint/TyketJson.dll
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/obj/Debug/net7.0/TyketJson.pdb
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/obj/Debug/net7.0/TyketJson.genruntimeconfig.cache
+/Users/gabrielruiz/Projects/TyketJson/TyketJson/obj/Debug/net7.0/ref/TyketJson.dll

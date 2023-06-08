@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "zd93V2SbmTW9gNHrb1aQ+hpkBExiMqJefQMb7x8P5eB57WRZWYgystqLN4RYWfH313ZZXDHVAuqCC276PQAxDQ==",
+  "success": true,
+  "projectFilePath": "/Users/gabrielruiz/Projects/TyketJson/TyketJson/TyketJson.csproj",
+  "expectedPackageFiles": [
+    "/Users/gabrielruiz/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
